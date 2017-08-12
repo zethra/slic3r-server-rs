@@ -1,0 +1,12 @@
+[package]
+name = "slic3r_server"
+version = "0.1.0"
+authors = ["zethra <jediben97@gmail.com>"]
+
+[dependencies]
+iron = "0.5.1"
+staticfile = "0.4.0"
+router = "0.5.1"
+mount = "0.3.0"
+tempdir = "0.3.5"
+multipart = "0.13.1"
